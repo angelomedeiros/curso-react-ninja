@@ -2,8 +2,10 @@
 
 import React from 'react'
 
+import Title from './title'
+
 const App = () => (
-  <div>My App</div>
+  <Title name='Angela' />
 )
 
 export default App
